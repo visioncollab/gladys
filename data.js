@@ -5,84 +5,62 @@ const CONFIG_SEMANAL = {
     firmaPublicaciones: "Gladys Monzón | Asesoría Inmobiliaria PN-4215",
     whatsappPublicaciones: "994 135 860",
     whatsappDestino: "",
-    titulo: "Calendario Setiembre - Octubre 2026",
-    rangoFechas: "Semana del martes 29 al sábado 03 de octubre",
+    titulo: "Calendario Octubre 2026",
+    rangoFechas: "Semana del martes 6 al sábado 10 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 29 de setiembre",
-            imagenes: ["img/29.jpg"],
-            copy: `¿Te interesa el mundo inmobiliario? 🏠📈
+            diaSemana: "Martes 6 de octubre",
+            imagenes: ["img/6.jpg"],
+            copy: `📍 Venta de Lujo en Miraflores: Vista frontal al mar | 💵 USD 480,000
 
-Este espacio es para ti. Aquí hablamos de:
+Vive en el exclusivo Malecón de la Reserva, a un paso de Larcomar, disfrutando los mejores atardeceres frente al Océano Pacífico y el Morro Solar.
 
-💰 Inversión
-📊 Mercado
-🏗️ Proyectos
-📍 Oportunidades
+Características (207 m²):
+✔ Amplitud y luz: Vista al mar desde todo el frente del depa.
+✔ Distribución: 3 amplios dormitorios + sala de estar (o estudio).
+✔ Comodidad: Cocina con comedor de diario y área de servicio completa.
+✔ Acabados premium: Elegantes pisos de mármol y puertas de madera sólida.
+✔ Edificio Calicanto: Arquitectura clásica y sólida. Seguridad 24/7, 2 ascensores, elegante lobby y amplia cochera.
 
-El sector inmobiliario explicado de forma sencilla, sin palabras complicadas. 💡
-
-📲 Sígueme y aprendamos juntos.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Jueves 01 de octubre",
-            imagenes: ["img/1.jpg"],
-            copy: `Luminoso Departamento de 3 Dormitorios en Surco (Rodeado de Parques)
-
-Precio: $208,000
-
-Ubicación estratégica en esquina (Av. Precursores con Batallón Callao), flanqueado por los parques César Vallejo y Chabuca Granda. Su disposición garantiza excelente luz natural y ventilación.
-
-Distribución y Características:
-🛏️ 3 Dormitorios: El principal cuenta con un amplio baño incorporado.
-🚿 Baños Adicionales: 1 baño completo (compartido y de visitas) + 1 baño de servicio.
-🍳 Cocina: Diseño moderno de concepto abierto.
-🧺 Área de Servicio: Lavandería ventilada (incluye terma) y cuarto de servicio completo.
-🚗 Extras: Estacionamiento techado y un depósito de buen tamaño.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 02 de octubre",
-            imagenes: ["img/2.jpg"],
-            copy: `📍 ¿Falta de espacio? Descubre esta casa XL en el corazón de San Borja.
-
-Ubicación estratégica a un paso de la estación San Borja Sur. Ideal para familias grandes, oficinas a puerta cerrada o proyectos inmobiliarios.
-
-💰 USD 595,000
-
-Mira por qué es una oportunidad única:
-📐 405 m² construidos: Sobre un terreno de 300 m² (con parámetros para 3 pisos).
-🛏️ 7 dormitorios: 5 de ellos con baño propio. ¡Privacidad total para todos!
-📦 Sótano gigante: Perfecto como almacén, depósito o zona de juegos.
-🚗 Estacionamiento XL: Espacio para 3 o 4 autos.
-✨ Acabados modernos: Pisos de bambú, cuarzo y techos a doble altura (parcialmente remodelada, lista para tus toques finales).
-
-Si el espacio y la ubicación son tu prioridad, acabas de encontrar tu inmueble ideal. 💡`
+📲 Un entorno privilegiado te espera. Envíame un DM para pasarte el video o agendar tu visita exclusiva.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 03 de octubre",
-            imagenes: ["img/3.jpg"],
-            copy: `📱 ¿Un depa inteligente, equipado y de estreno en Lince?
+            diaSemana: "Jueves 8 de octubre",
+            imagenes: ["img/8.png"],
+            copy: `🇵🇪 ¡Un abrazo en este día histórico!
+Hoy conmemoramos el Combate de Angamos y llevamos en alto el nombre del Perú. ¡Que pasen un muy buen 8 de octubre, siempre recordando lo nuestro! 🌊🙌`
+        },
 
-Olvídate de las mudanzas estresantes. Este flat en el piso 9 está listo para que literalmente solo traigas tus maletas.
+        {
+            tipo: "video",
+            diaSemana: "Viernes 9 de octubre",
+            imagenes: ["img/9.jpg"],
+            copy: `📍 Alquiler de Depa Amoblado para Ejecutivos | 📍 San Isidro | 💵 USD 1,500
 
-💰 Alquiler: USD 880
+Ubicación prime en la calle Los Laureles, a un paso de Javier Prado, 2 de Mayo y Vivanda. Máxima seguridad garantizada al estar justo al lado de la SBS. Ideal para ejecutivos A1 o extranjeros.
 
-Mira todo lo que incluye:
-🛏️ 3 dormitorios listos: Principal con cama Queen y secundarios equipados (todos con clósets).
-🍳 Full equipado: Cocina completa, centro de lavado, TV en sala y zona de escritorio.
-📱 Tecnología y ahorro: Chapa inteligente, sistema Alexa integrado y gas Cálidda.
-🌅 Balcón (Piso 9): Excelente iluminación y vista a la calle.
-🚗 Comodidad total: Incluye cochera y estacionamiento para bicis.
-🏢 Áreas comunes top: Gimnasio, terraza con zona BBQ y sala bar.
+Detalles:
+✔ Listo para vivir: 100% amoblado, equipado y con decoración moderna.
+✔ Distribución: 2 dormitorios (el principal con baño) y 3 baños completos en total.
+✔ Ambientes: Cocina abierta muy funcional y balcón con agradable vista a la calle.
+✔ Plus: Arbitrios súper bajos (S/ 29.72 mensuales).`
+        },
 
-La combinación perfecta entre modernidad, ahorro y confort. 💡`
+        {
+            tipo: "video",
+            diaSemana: "Sábado 10 de octubre",
+            imagenes: ["img/10.jpg"],
+            copy: `🏖️ Alquiler: Dúplex de Playa Amoblado | 📍 Santa María del Mar | 💵 USD 5,000
+
+¡A solo 40 pasos del Malecón! Disfruta la temporada en este exclusivo dúplex equipado (pisos 3 y 4 con ascensor directo).
+
+Distribución:
+✔ Nivel 1: Sala comedor con balcón, cocina abierta con isla y 3 dormitorios (el principal con baño y balcón).
+✔ Nivel 2: Sala de estar, terraza amplia con vista lateral al mar y 4to dormitorio con baño incorporado.
+✔ Comodidad: 2 cocheras en línea y área de servicio (patio y baño).`
         }
     ]
 };
