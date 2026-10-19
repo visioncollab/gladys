@@ -6,59 +6,81 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "994 135 860",
     whatsappDestino: "",
     titulo: "Calendario Octubre 2026",
-    rangoFechas: "Semana del martes 13 al sábado 17 de octubre",
+    rangoFechas: "Semana del martes 20 al sábado 24 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 13 de octubre",
-            imagenes: ["img/13.jpg"],
-            copy: `📱 Tu Instagram es tu nueva tarjeta de presentación.
+            diaSemana: "Martes 20 de octubre",
+            imagenes: ["img/20.jpg"],
+            copy: `🎥 Un tour inmobiliario no debe limitarse a decir: "esta es la sala".
 
-Antes de contactarte, tu cliente revisará tus redes en segundos para saber si eres el experto que necesita y si le transmites confianza. 👀
+Un buen recorrido tiene que responder:
 
-💡 Tu perfil no debe ser solo un catálogo de propiedades; debe demostrar tu experiencia. Recuerda: tus redes hablan por ti 24/7.`
+🏡 ¿Cómo es la vida aquí?
+📍 ¿Para quién es ideal este espacio?
+✨ ¿Qué lo hace único?
+💡 ¿Qué detalles marcan la diferencia?
+
+Mostrar una propiedad es enseñar espacios.
+Contar una propiedad es ayudar a imaginar una vida dentro de ella.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 15 de octubre",
-            imagenes: ["img/15.jpg"],
-            copy: `📍 Alquilo departamento amoblado en San Isidro
-💰 USD 1,500 / mes
+            diaSemana: "Jueves 22 de octubre",
+            imagenes: ["img/22.jpg"],
+            copy: `🏢 Venta de Departamento Remodelado en Surco
+💰 $208,000
 
-🏢 Ubicación prime: Calle Los Laureles (entre 2 de Mayo y Javier Prado, cerca a Vivanda). Zona financiera con seguridad máxima garantizada (al lado de la SBS). Ideal para ejecutivos A1 o extranjeros.
+📍 Exclusividad y tranquilidad: Edificio de solo 6 departamentos. Ubicado en el 2do piso con vista a la calle y ascensor.
 
-✨ Características:
-✅ Totalmente amoblado, equipado y con diseño moderno.
-✅ 2 Dormitorios (principal con baño incorporado) y 3 baños completos.
-✅ Balcón con agradable vista a la calle y cocina abierta funcional.
-✅ Arbitrios: solo S/ 29.72 al mes.`
+¿Qué te ofrece?
+✅ 3 dormitorios (el principal con walk-in closet y baño privado).
+✅ Sala-comedor amplia con elegantes pisos de madera.
+✅ Cocina de concepto abierto (kitchenette) y lavandería.
+✅ Área de servicio completa (cuarto y baño).
+✅ 1 cochera techada paralela y 1 depósito.
+
+✨ Detalles: Ha sido completamente remodelado para que te mudes sin preocupaciones y es pet-friendly (¡tu mascota es bienvenida!).`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Viernes 16 de octubre",
-            imagenes: ["img/16.jpg"],
-            copy: `🤖 ¿La Inteligencia Artificial reemplazará al agente inmobiliario?
+            diaSemana: "Viernes 23 de octubre",
+            imagenes: ["img/23.jpg"],
+            copy: `El agente que educa, también vende. 🧠
 
-💡 La IA es excelente para analizar datos 📊, crear contenidos ✍️ y organizar tareas 📅.
-🤝 Pero hay algo irreemplazable: escuchar, entender tus verdaderas necesidades y acompañarte en la negociación.
-🎯 La tecnología nos hace más eficientes, pero la confianza sigue siendo 100% humana.`
+No necesariamente una propiedad, sino algo mucho más importante: confianza.
+
+Cuando le explicas a un cliente:
+📊 Cómo se mueve el mercado.
+🏡 Qué detalles revisar en una visita.
+💰 Cómo tomar una buena decisión financiera.
+
+No solo informas, demuestras autoridad.
+
+Y cuando llegue el momento de comprar o vender, esa confianza será la diferencia entre un:
+
+💬 "Vi tu anuncio."
+y un
+🤝 "Quiero trabajar contigo."`
         },
 
         {
             tipo: "video",
-            diaSemana: "Sábado 17 de octubre",
-            imagenes: ["img/17.jpg"],
-            copy: `📍 Vendo terreno en Pachacámac
-💰 USD 359,000
+            diaSemana: "Sábado 24 de octubre",
+            imagenes: ["img/24.jpg"],
+            copy: `🌳 Venta de Amplio Terreno en Pachacamac (El Guayabo)
+💰 $359,000 ($90 / m2)
 
-Ubicación con gran potencial, ideal para empezar tu próximo proyecto desde cero.
+📍 Ubicación estratégica: Colindante con "El Estadio", en una zona tranquila y de gran potencial.
 
-✨ Características:
-✅ Terreno plano, casi rectangular y totalmente cercado.
-✅ Incluye una casa para demoler al centro (listo para construir a tu medida).
-✅ Excelente entorno: ubicado al lado de "El Estadio", zona con áreas verdes ideal para desarrollo deportivo o recreativo.`
+¿Qué te ofrece?
+✅ 3,726 m2 de terreno plano, casi rectangular y totalmente cercado.
+✅ 100% saneado: Inscrito en SUNARP con habilitación urbana.
+✅ Cuenta con una casa para demoler (¡el lienzo en blanco perfecto para tu nuevo proyecto!).
+
+✨ Ideal para desarrollos inmobiliarios, casas de campo o proyectos deportivos.`
         }
     ]
 };
