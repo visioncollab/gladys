@@ -6,73 +6,82 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "994 135 860",
     whatsappDestino: "",
     titulo: "Calendario Noviembre 2026",
-    rangoFechas: "Semana del martes 10 al sábado 14 de noviembre",
+    rangoFechas: "Semana del martes 17 al sábado 21 de noviembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 10 de noviembre",
-            imagenes: ["img/10.jpg"],
-            copy: `🏡 EL PROFESIONALISMO NO ES SABERLO TODO.
+            diaSemana: "Martes 17 de noviembre",
+            imagenes: ["img/17.jpg"],
+            copy: `🏡 Lo que no ves detrás de una publicación inmobiliaria
 
-Es saber escuchar, investigar y encontrar las respuestas correctas.
+Cada propiedad publicada tiene un trabajo previo:
 
-En el sector inmobiliario, la confianza no se gana aparentando experiencia, sino demostrando compromiso, transparencia y preparación.
+🔎 Investigar el mercado.
+📋 Verificar la información.
+🤝 Coordinar con propietarios.
+📲 Dar seguimiento a cada detalle.
 
-✨ Porque una buena asesora no improvisa respuestas, ofrece soluciones.`
+Mostrar una propiedad toma minutos, pero comunicarla con responsabilidad requiere dedicación y compromiso.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Jueves 19 de noviembre",
+            imagenes: ["img/19.jpg"],
+            copy: `🏡 ¡VIVE EN LINCE CON TODAS LAS COMODIDADES!
+
+💰 Alquiler: US$ 880 mensuales
+
+Moderno departamento amoblado y equipado, con espacios acogedores y tecnología para tu comodidad.
+
+✨ Características:
+
+🛏️ 3 dormitorios | 2 baños
+🏢 Piso 9 con balcón y vista a la calle
+🍳 Cocina equipada y gas Cálidda
+🚗 1 cochera en sótano
+🔐 Cerradura inteligente y Alexa
+🌇 Áreas comunes: Gimnasio, terraza con parrilla y sala de bar.
+🐾 ¡Se aceptan mascotas!
+
+📲 ¡Agenda tu visita y conoce tu próximo hogar!`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 12 de noviembre",
-            imagenes: ["img/12.jpg"],
-            copy: `🏡 ¡ESTE DEPA EN SURCO PODRÍA TENER PRONTO NUEVO DUEÑO! 🌳
+            diaSemana: "Viernes 20 de noviembre",
+            imagenes: ["img/20.jpg"],
+            copy: `🏡 La confianza se construye con hechos.
 
-Un hermoso flat de estreno frente al parque Los Arquitectos, con excelente iluminación y espacios modernos.
+Mi mejor carta de presentación es la forma en que trabajo: con responsabilidad, preparación y compromiso.
 
-📍 Santiago de Surco
+✨ Me mantengo actualizada para brindar una asesoría cercana y profesional.
 
-
-✅ 108.41 m² + balcón de 7.10 m²
-✅ 3 dormitorios y sala de estar
-✅ Cocina abierta con isla de cuarzo
-✅ Cochera doble disponible por separado
-
-✨ ¿Buscas una propiedad con estas características?
-
-📩 Escríbeme y encontremos tu próximo hogar.`
+Porque la confianza no solo se promete, se demuestra en cada paso.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 13 de noviembre",
-            imagenes: ["img/13.jpg"],
-            copy: `🏡✨ ¡HAY MUCHO MÁS DETRÁS DE CADA PROPIEDAD!
+            diaSemana: "Sábado 21 de noviembre",
+            imagenes: ["img/21.jpg"],
+            copy: `🏡 ¡DÚPLEX CON AMPLIA TERRAZA EN SURCO!
 
-Visitas, nuevos retos, experiencias y pequeños detalles que hacen especial mi trabajo inmobiliario.
+💰 Venta: US$ 240,000
 
-En Instagram quiero mostrarte ese lado más cercano y auténtico de mi profesión, compartir consejos útiles y llevarte conmigo en este camino.
+Disfruta de la comodidad de una casa con la practicidad de un departamento. Espacios amplios, luz natural y una terraza ideal para compartir en familia.
 
-📲 ¿Me acompañas? Sígueme en Instagram y descubre todo lo que hay detrás de cada llave. 🔑`
-        },
+✨ Características:
 
-        {
-            tipo: "video",
-            diaSemana: "Sábado 14 de noviembre",
-            imagenes: ["img/14.jpg"],
-            copy: `🌿 ¡GRAN OPORTUNIDAD DE INVERSIÓN EN PACHACÁMAC!
+📐 240 m² de área ocupada | 2 niveles
+🛏️ 3 dormitorios + ambiente adicional
+🚿 3 baños
+🍳 Cocina amplia y lavandería
+🌿 Terraza privada de más de 100 m²
+🚗 2 cocheras paralelas + depósito
+📍 3.er y 4.º piso, zona residencial de Santiago de Surco.
+🐾 ¡Se aceptan mascotas!
 
-Amplio terreno en El Guayabo, ideal para quienes buscan invertir en una zona rodeada de naturaleza.
-
-📍 Ubicación: Pachacámac – El Guayabo
-💰 Precio: USD 359,000
-
-✅ 3,726 m² de terreno
-✅ Superficie plana y totalmente cercada
-✅ Ubicado junto a El Estadio
-✅ Cuenta con una construcción para demoler
-✅ Zona agrícola, con habilitación urbana indicada en la documentación
-
-✨ Un terreno con espacio y potencial para tu próximo proyecto.`
+📲 ¡Agenda tu visita y descubre tu próximo hogar!`
         }
     ]
 };
