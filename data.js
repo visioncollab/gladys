@@ -6,82 +6,82 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "994 135 860",
     whatsappDestino: "",
     titulo: "Calendario Noviembre 2026",
-    rangoFechas: "Semana del martes 17 al sábado 21 de noviembre",
+    rangoFechas: "Semana del martes 24 al sábado 28 de noviembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 17 de noviembre",
-            imagenes: ["img/17.jpg"],
-            copy: `🏡 Lo que no ves detrás de una publicación inmobiliaria
+            diaSemana: "Martes 24 de noviembre",
+            imagenes: ["img/24.jpg"],
+            copy: `🏡✨ ¡Mi mejor carta de presentación es la forma en que trabajo!
 
-Cada propiedad publicada tiene un trabajo previo:
+🤝 Creo en la responsabilidad, la preparación y el compromiso con cada persona que deposita su confianza en mí.
 
-🔎 Investigar el mercado.
-📋 Verificar la información.
-🤝 Coordinar con propietarios.
-📲 Dar seguimiento a cada detalle.
+📚 Me esfuerzo por mantenerme actualizada, aprender constantemente y ofrecer una atención cercana, honesta y profesional.
 
-Mostrar una propiedad toma minutos, pero comunicarla con responsabilidad requiere dedicación y compromiso.`
+💛 Porque la confianza no se promete, se demuestra con hechos en cada experiencia. 🔑`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 19 de noviembre",
-            imagenes: ["img/19.jpg"],
-            copy: `🏡 ¡VIVE EN LINCE CON TODAS LAS COMODIDADES!
+            diaSemana: "Jueves 26 de noviembre",
+            imagenes: ["img/26.jpg"],
+            copy: `🏡 ¡DÚPLEX EN VENTA EN SANTIAGO DE SURCO!
 
-💰 Alquiler: US$ 880 mensuales
+💰 USD 240,000
 
-Moderno departamento amoblado y equipado, con espacios acogedores y tecnología para tu comodidad.
+✨ Acogedor dúplex de 240 m², con ambientes amplios, excelente iluminación natural y una terraza privada ideal para compartir en familia.
 
-✨ Características:
+🛏️ 3 dormitorios + habitación adicional
+🚿 2 baños completos + baño de visitas
+🍽️ Cocina amplia con acabados modernos
+💻 Espacio ideal para home office
+🌿 Gran terraza privada con zona para parrilla
+🚗 2 cocheras paralelas + depósito
+🏢 Edificio exclusivo de solo 9 familias
 
-🛏️ 3 dormitorios | 2 baños
-🏢 Piso 9 con balcón y vista a la calle
-🍳 Cocina equipada y gas Cálidda
-🚗 1 cochera en sótano
-🔐 Cerradura inteligente y Alexa
-🌇 Áreas comunes: Gimnasio, terraza con parrilla y sala de bar.
-🐾 ¡Se aceptan mascotas!
-
-📲 ¡Agenda tu visita y conoce tu próximo hogar!`
+📍 Ubicado en el 3.er y 4.º piso, en excelente estado de conservación.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Viernes 20 de noviembre",
-            imagenes: ["img/20.jpg"],
-            copy: `🏡 La confianza se construye con hechos.
+            diaSemana: "Viernes 27 de noviembre",
+            imagenes: ["img/27.jpg"],
+            copy: `🏙️📈 ¡El mercado inmobiliario peruano podría cerrar el 2026 con cifras récord!
 
-Mi mejor carta de presentación es la forma en que trabajo: con responsabilidad, preparación y compromiso.
+🏡 Según proyecciones de Scotiabank, la venta de viviendas nuevas en Lima superaría las 28,000 unidades, un crecimiento cercano al 15% frente al 2025.
 
-✨ Me mantengo actualizada para brindar una asesoría cercana y profesional.
+🔎 ¿Qué impulsa esta tendencia?
 
-Porque la confianza no solo se promete, se demuestra en cada paso.`
+✅ Mejores condiciones de financiamiento hipotecario.
+✅ Recuperación de la demanda de vivienda social.
+✅ Mayor colocación de créditos hipotecarios.
+✅ Condiciones favorables para nuevos proyectos.
+
+✨ ¡El sector inmobiliario muestra señales positivas de crecimiento!
+
+💬 ¿Crees que este impulso continuará en 2027?`
         },
 
         {
             tipo: "video",
-            diaSemana: "Sábado 21 de noviembre",
-            imagenes: ["img/21.jpg"],
-            copy: `🏡 ¡DÚPLEX CON AMPLIA TERRAZA EN SURCO!
+            diaSemana: "Sábado 28 de noviembre",
+            imagenes: ["img/28.jpg"],
+            copy: `🏙️ ¡DEPARTAMENTO AMOBLADO EN ALQUILER EN SAN ISIDRO!
 
-💰 Venta: US$ 240,000
+💰 USD 1,500 mensuales
 
-Disfruta de la comodidad de una casa con la practicidad de un departamento. Espacios amplios, luz natural y una terraza ideal para compartir en familia.
+✨ Moderno departamento totalmente amoblado y equipado, ideal para ejecutivos y extranjeros que buscan comodidad y una excelente ubicación.
 
-✨ Características:
+🛏️ 2 dormitorios (principal con baño privado)
+🚿 3 baños completos
+🍽️ Cocina abierta y moderna
+🛋️ Sala acogedora y funcional
+🌇 Balcón con vista a la calle
+🪑 Totalmente amoblado y equipado
 
-📐 240 m² de área ocupada | 2 niveles
-🛏️ 3 dormitorios + ambiente adicional
-🚿 3 baños
-🍳 Cocina amplia y lavandería
-🌿 Terraza privada de más de 100 m²
-🚗 2 cocheras paralelas + depósito
-📍 3.er y 4.º piso, zona residencial de Santiago de Surco.
-🐾 ¡Se aceptan mascotas!
+📍 Calle Los Laureles, San Isidro, entre Av. 2 de Mayo y Javier Prado, cerca de Vivanda, bancos y comercios.
 
-📲 ¡Agenda tu visita y descubre tu próximo hogar!`
+💵 Arbitrios: S/ 29.72 mensuales.`
         }
     ]
 };
